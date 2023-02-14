@@ -10,7 +10,7 @@ coverImage: ''
 publishedAt: '2023-02-14T16:26:37.572Z'
 ---
 
-✨ We've decided to create this blog to share our blog on sometimes *technical stuff,* sometimes *thoughts on the industry*. Most of the times, *both*.
+✨ We've decided to create this blog to share our insights on sometimes *technical stuff,* sometimes *thoughts on the industry*. Most of the times, *both*.
 
 Our goal is to create a platform for students and professionals alike to come together and exchange knowledge, ideas, and opinions. We believe that by sharing our experiences and insights, we can all learn and grow together.
 
