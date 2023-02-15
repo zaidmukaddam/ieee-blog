@@ -27,16 +27,16 @@ const Blog: NextPageWithLayout<Props> = ({ allPosts }: Props) => {
         <meta name="description" content="Sharing a bit of my journey as a web developer." />
 
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://ieeempstme.co/blog" />
+        <meta property="og:url" content="https://ieeenmims.vercel.app/blog" />
         <meta property="og:title" content="IEEE NMIMS — Blog" />
         <meta property="og:description" content="Sharing a bit of my journey as a web developer." />
-        <meta property="og:image" itemProp="image" content="https://ieeempstme.co/thumbnail.png" />
+        <meta property="og:image" itemProp="image" content="https://ieeenmims.vercel.app/thumbnail.png" />
 
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://ieeempstme.co/blog" />
+        <meta property="twitter:url" content="https://ieeenmims.vercel.app/blog" />
         <meta property="twitter:title" content="IEEE NMIMS — Blog" />
         <meta property="twitter:description" content="Sharing a bit of my journey as a web developer." />
-        <meta property="twitter:image" content="https://ieeempstme.co/thumbnail.png" />
+        <meta property="twitter:image" content="https://ieeenmims.vercel.app/thumbnail.png" />
       </Head>
       <main className="mx-auto flex w-full max-w-screen-sm flex-col gap-5 px-6 lg:px-0">
         <div className="flex flex-col gap-2">
