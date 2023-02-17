@@ -104,7 +104,7 @@ export function Cards() {
               </strong>{' '}at
             </p>
             <p className="cursor-default text-center text-sm italic text-white">
-                IEEE NMIMS.
+              IEEE NMIMS.
             </p>
           </div>
         </div>
