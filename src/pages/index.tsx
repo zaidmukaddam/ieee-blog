@@ -9,19 +9,19 @@ const Home: NextPageWithLayout = () => {
   return (
     <>
       <Head>
-        <title>IEEE NMIMS — Home</title>
-        <meta name="title" content="IEEE NMIMS — Student Branch @IEEE" />
+        <title>IEEE NMIMS MPSTME — Home</title>
+        <meta name="title" content="IEEE NMIMS MPSTME — Student Branch @IEEE" />
         <meta name="description" content="We are a IEEE's Student Branch, and we're building the future." />
 
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://ieeenmims.co/" />
-        <meta property="og:title" content="IEEE NMIMS — Student Branch @IEEE" />
+        <meta property="og:title" content="IEEE NMIMS MPSTME — Student Branch @IEEE" />
         <meta property="og:description" content="We are a IEEE's Student Branch, and we're building the future." />
         <meta property="og:image" itemProp="image" content="https://ieeenmims.co/thumbnail.png" />
 
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://ieeenmims.co/" />
-        <meta property="twitter:title" content="IEEE NMIMS — Student Branch @IEEE" />
+        <meta property="twitter:title" content="IEEE NMIMS MPSTME — Student Branch @IEEE" />
         <meta
           property="twitter:description"
           content="We are a IEEE's Student Branch, and we're building the future."

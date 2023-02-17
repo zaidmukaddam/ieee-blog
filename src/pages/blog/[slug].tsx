@@ -52,19 +52,19 @@ const BlogPost: NextPageWithLayout<Props> = ({ post }: Props) => {
   return (
     <>
       <Head>
-        <title>{`IEEE NMIMS — ${post.title}`}</title>
-        <meta name="title" content="IEEE NMIMS — Blog" />
+        <title>{`IEEE NMIMS MPSTME — ${post.title}`}</title>
+        <meta name="title" content="IEEE NMIMS MPSTME — Blog" />
         <meta name="description" content="Sharing a bit of my journey as a web developer." />
 
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://ieeenmims.co/blog" />
-        <meta property="og:title" content="IEEE NMIMS — Blog" />
+        <meta property="og:title" content="IEEE NMIMS MPSTME — Blog" />
         <meta property="og:description" content="Sharing a bit of my journey as a web developer." />
         <meta property="og:image" itemProp="image" content="https://ieeenmims.co/thumbnail.png" />
 
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://ieeenmims.co/blog" />
-        <meta property="twitter:title" content="IEEE NMIMS — Blog" />
+        <meta property="twitter:title" content="IEEE NMIMS MPSTME — Blog" />
         <meta property="twitter:description" content="Sharing a bit of my journey as a web developer." />
         <meta property="twitter:image" content="https://ieeenmims.co/thumbnail.png" />
       </Head>

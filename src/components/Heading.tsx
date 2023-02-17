@@ -3,7 +3,7 @@ import Link from 'next/link'
 export function Heading() {
   return (
     <div className="flex h-max w-max animate-fade-up flex-col justify-center gap-0">
-      <h1 className="text-4xl font-bold">IEEE NMIMS</h1>
+      <h1 className="text-4xl font-bold">IEEE NMIMS MPSTME</h1>
       <h2 className="relative text-lg text-violet-100/50">
         Student Branch{' '}
         <Link
