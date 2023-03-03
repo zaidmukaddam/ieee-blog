@@ -8,7 +8,16 @@ const nextConfig = {
         hostname: 'avatars.githubusercontent.com',
         port: ''
       }
-    ]
+    ],
+    async redirects() {
+      return [
+        {
+          source: '/techsafar',
+          destination: 'https://oiiosmwbmyy.typeform.com/to/otje05wJ',
+          permanent: false
+        }
+      ]
+    }
   }
 }
 
