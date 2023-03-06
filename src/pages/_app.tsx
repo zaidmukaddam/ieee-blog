@@ -2,6 +2,7 @@ import '@/styles/globals.css'
 import { Space_Grotesk } from '@next/font/google'
 import { NextPage } from 'next'
 import type { AppProps } from 'next/app'
+import { Analytics } from '@vercel/analytics/react';
 
 const spaceGrotesk = Space_Grotesk({ subsets: ['latin'] })
 
@@ -25,6 +26,7 @@ export default function App({ Component, pageProps }: AppPropsWithLayout) {
           }
         `}
       </style>
+      <Analytics mode={'production'} />;
       <Component {...pageProps} />
     </>
   )
