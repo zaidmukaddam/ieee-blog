@@ -24,7 +24,7 @@ const Blog: NextPageWithLayout<Props> = ({ allPosts }: Props) => {
       <Head>
         <title>IEEE NMIMS MPSTME — Blog</title>
         <meta name="title" content="IEEE NMIMS MPSTME — Blog" />
-        <meta name="description" content="Sharing a bit of my journey as a web developer." />
+        <meta name="description" content="This blog is a collection of expriences, learnings, and thoughts on technology and industry." />
 
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://ieeenmims.co/blog" />
