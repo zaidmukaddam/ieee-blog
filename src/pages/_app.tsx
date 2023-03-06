@@ -26,7 +26,7 @@ export default function App({ Component, pageProps }: AppPropsWithLayout) {
           }
         `}
       </style>
-      <Analytics mode={'production'} />;
+      <Analytics mode={'production'} />
       <Component {...pageProps} />
     </>
   )
