@@ -10,11 +10,11 @@ coverImage: 'https://www.notion.so/front-static/meta/ai-v2.png'
 publishedAt: '2023-03-06T14:30:00.149Z'
 ---
 
-## Introduction
+## **Introduction**
 
 Notion AI is a revolutionary tool that is changing the way we work. It combines artificial intelligence and machine learning to make our work more efficient and effective. This powerful tool is designed to help individuals and teams manage their projects, tasks, and goals in a more streamlined way. In this blog post, we will explore what Notion AI is and how it can help you in your work. We will also provide examples of how Notion AI is being used by different industries.
 
-## Examples of Notion AI
+## **Examples of Notion AI**
 
 ### 1\. Marketing
 
