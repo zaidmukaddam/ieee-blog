@@ -10,11 +10,11 @@ export function Heading() {
           href="https://ieee.org"
           target="_blank"
           rel="noreferrer noopener"
-          className="hover: peer text-violet-100/50 underline decoration-violet-100/50 underline-offset-2 transition-colors hover:underline lg:text-violet-100/50 lg:no-underline lg:decoration-orange-500/50 lg:hover:text-orange-400">
+          className="hover: peer text-violet-100/50 underline decoration-violet-100/50 underline-offset-2 transition-colors hover:underline lg:text-violet-100/50 lg:no-underline lg:decoration-blue-500/50 lg:hover:text-blue-400">
           @IEEE
         </Link>
         <span className="absolute -translate-x-1 text-violet-500 opacity-0 transition-all peer-hover:translate-x-0 peer-hover:opacity-100">
-          🧡
+          💙
         </span>
       </h2>
     </div>
