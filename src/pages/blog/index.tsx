@@ -29,7 +29,7 @@ const Blog: NextPageWithLayout<Props> = ({ allPosts }: Props) => {
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://ieeenmims.co/blog" />
         <meta property="og:title" content="IEEE NMIMS MPSTME — Blog" />
-        <meta property="og:description" content="Sharing a bit of my journey as a web developer." />
+        <meta property="og:description" content="This blog is a collection of expriences, learnings, and thoughts on technology and industry." />
         <meta property="og:image" itemProp="image" content="https://ieeenmims.co/thumbnail.png" />
 
         <meta property="twitter:card" content="summary_large_image" />
