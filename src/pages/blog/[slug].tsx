@@ -80,7 +80,7 @@ const BlogPost: NextPageWithLayout<Props> = ({ post }: Props) => {
             </div>
           </div>
         ) : null}
-        <section className="prose text-violet-100 prose-em:transition-colors hover:prose-em:bg-violet-700 hover:prose-em:text-white lg:prose-lg">
+        <section className="prose text-violet-100 prose-headings:text-white prose-strong:text-zinc-200 prose-em:transition-colors hover:prose-em:bg-violet-700 hover:prose-em:text-white lg:prose-lg">
           <ReactMarkdown>{post.content}</ReactMarkdown>
         </section>
       </main>
