@@ -35,7 +35,7 @@ const Blog: NextPageWithLayout<Props> = ({ allPosts }: Props) => {
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://ieeenmims.co/blog" />
         <meta property="twitter:title" content="IEEE NMIMS MPSTME — Blog" />
-        <meta property="twitter:description" content="Sharing a bit of my journey as a web developer." />
+        <meta property="twitter:description" content="This blog is a collection of expriences, learnings, and thoughts on technology and industry." />
         <meta property="twitter:image" content="https://ieeenmims.co/thumbnail.png" />
       </Head>
       <main className="mx-auto flex w-full max-w-screen-sm flex-col gap-5 px-6 lg:px-0">
