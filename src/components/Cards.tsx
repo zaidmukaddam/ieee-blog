@@ -89,7 +89,7 @@ export function Cards() {
         rel="noreferrer noopener"
         className="group order-3 flex w-full animate-fade-up items-center justify-between rounded-lg bg-opacity-40 bg-gradient-pattern-6 bg-left-top bg-no-repeat py-6 px-10 saturate-50 transition-all animation-delay-600 sm:order-none lg:saturate-0 lg:hover:scale-[.97] lg:hover:saturate-50">
         <p className="flex items-center justify-center font-bold lg:text-lg">
-          Check out our social media &gt;<span className="opacity-0 transition-opacity lg:group-hover:opacity-100">👀</span>
+          Check out our social media<span className="opacity-0 transition-opacity lg:group-hover:opacity-100">👀</span>
         </p>
         <ArrowLongRightIcon className="h-6 w-6 text-white transition-transform lg:group-hover:translate-x-2" />
       </Link>

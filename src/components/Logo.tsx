@@ -1,6 +1,7 @@
 export function Logo() {
   return (
     <svg className="h-20 w-20" width="450" height="450" viewBox="0 0 450 450" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <rect width="450" height="450" rx="150" fill="url(#paint0_linear_510_2)" />
       <g clip-path="url(#clip0_1212_9)">
         <path d="M300 0H150C67.1573 0 0 67.1573 0 150V300C0 382.843 67.1573 450 150 450H300C382.843 450 450 382.843 450 300V150C450 67.1573 382.843 0 300 0Z" fill="url(#paint0_linear_1212_9)" />
         <path d="M201.643 213.193V144.662H216.175V213.193H201.643Z" fill="white" />
