@@ -7,7 +7,7 @@ author:
 slug: 'building-things-that-matter'
 description: 'We''ve decided to create this blog to share our insights on sometimes technical stuff, sometimes thoughts on the industry. Most of the times, both.'
 coverImage: ''
-publishedAt: '2023-02-14T16:26:37.572Z'
+publishedAt: '2023-03-04T14:30:00.000Z'
 ---
 
 ✨ We've decided to create this blog to share our insights on sometimes *technical stuff,* sometimes *thoughts on the industry*. Most of the times, *both*.
