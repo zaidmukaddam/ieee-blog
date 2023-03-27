@@ -18,7 +18,7 @@ const nextConfig = {
         permanent: false
       },
       {
-        source: '/supercore-recuitment',
+        source: '/supercore-recruitment',
         destination: 'https://oiiosmwbmyy.typeform.com/to/kXxzuS94',
         permanent: false
       }
