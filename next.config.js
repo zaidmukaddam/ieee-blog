@@ -18,7 +18,7 @@ const nextConfig = {
         permanent: false
       },
       {
-        soure: '/supercore-recuitment',
+        source: '/supercore-recuitment',
         destination: 'https://oiiosmwbmyy.typeform.com/to/kXxzuS94',
         permanent: false
       }
