@@ -16,6 +16,11 @@ const nextConfig = {
         source: '/techsafar',
         destination: 'https://oiiosmwbmyy.typeform.com/to/otje05wJ',
         permanent: false
+      },
+      {
+        soure: '/supercore-recuitment',
+        destination: 'https://oiiosmwbmyy.typeform.com/to/kXxzuS94',
+        permanent: false
       }
     ]
   }
