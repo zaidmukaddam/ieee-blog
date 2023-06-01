@@ -18,10 +18,10 @@ const nextConfig = {
         permanent: false
       },
       {
-        source: '/supercore-recruitment',
-        destination: 'https://oiiosmwbmyy.typeform.com/to/kXxzuS94',
+        source: '/core-recruitment',
+        destination: 'https://forms.gle/zACACYurpp782DTR6',
         permanent: false
-      }
+      },
     ]
   }
 }
