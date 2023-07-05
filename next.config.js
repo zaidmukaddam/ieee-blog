@@ -19,7 +19,7 @@ const nextConfig = {
       },
       {
         source: '/core-recruitment',
-        destination: 'https://forms.gle/zACACYurpp782DTR6',
+        destination: 'https://form.typeform.com/to/kXxzuS94',
         permanent: false
       },
     ]
